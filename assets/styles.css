@@ -3,8 +3,8 @@
 .goal {
  
     display: grid;
-    grid-template-columns: 113px;
-    grid-template-rows: 100px;
+    grid-template-columns: 110px;
+    grid-template-rows:  80px;
     grid-template-areas: 
     "fish fish vase-short"
     "map map vase-short"
